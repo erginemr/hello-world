@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 written from the master branch
-=======
-written inside temp branch
->>>>>>> temp
